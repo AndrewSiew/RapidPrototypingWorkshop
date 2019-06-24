@@ -4,19 +4,19 @@ New UBC Rapid members has to go through a semester long, once a week workshop se
 
 ### Outline
 
- 1. Basic Printing/Slicing 
+ 1. Basic Printing/Slicing:  
 3D printing overview; Loading a file onto the SD card; Starting a print on the printer; Cleaning the bed / sanding; General good practice; First layer importance; Printed solid; Troubleshooting
- 2. Basic SolidWorks
+ 2. Basic SolidWorks:  
 Sketching, dimensioning, mirroring; Extrusion, adding text; Sheet metal
- 3. Advance SolidWorks
+ 3. Advance SolidWorks:  
 Mates, mechanical mates; Motion study
- 4. Printer Components
+ 4. Printer Components:  
 X , Y and Z axis; Cartesian vs Delta vs CoreXYZ vs Polar vs Scara; Stepper motors and timing belts; Hotends, extruders and fan assemblies; Heated beds and glass plates; Electronics; Endstops, thermistors and auto leveling plus other sensors  
- 5. Printer Control Software
+ 5. Printer Control Software:  
 Pronterface; EEPROM; Gcode; Marlin 1.1.6; Prusa own firmware; Configuration.h and config_adv.h; Flashing and uploading firmware
- 6. Advance Slicing (MeshMixer)
+ 6. Advance Slicing (MeshMixer):  
 Import and export files; Repairing holes in models; Cutting models; Special supports; Experimental Cura settings
- 7. Basic Mesh Modeling (Blender)
+ 7. Basic Mesh Modeling (Blender):  
 Navigating view; Basic model manipulation; Modifier intro (boolean); Export technique
  8. Project Time
  9. Project Time
