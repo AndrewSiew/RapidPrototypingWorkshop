@@ -24,4 +24,4 @@ Navigating view; Basic model manipulation; Modifier intro (boolean); Export tech
 
 ### To do:
 
-WS 1, 4, 5, 6
+WS 1, 5, 6
