@@ -5,6 +5,8 @@
 -You can also start working on a Rapid project during this time
 -Some Rapid members (mainly me) will be there to answer questions about your project
 -You can use any non-perishable tool Rapid has, and you'll get 150g of plastic to print your project
+-Screencap your Cura estimate and PM it to me
 -Anything else, you have to buy it yourself
+-You're highly enouraged to use Git to track your project files
 -At the end, you'll join a Rapid project led by some senior member
 -I'll ask you about what you've learn at the end of your project
