@@ -7,7 +7,7 @@ Although this workshop series is made for UBC Rapid, it can be used for anyone w
 ### Outline
 
  1. Basic Printing/Slicing:  
-3D printing overview; Loading a file onto the SD card; Starting a print on the printer; Cleaning the bed / sanding; General good practice; First layer importance; Printed solid; Troubleshooting
+3D printing overview; Cloning git repository; Space tour; Starting a print on the printer; General good practice; Printed solid; Troubleshooting
  2. Basic SolidWorks:  
 Sketching, dimensioning, mirroring; Extrusion, adding text; Sheet metal
  3. Advance SolidWorks:  
@@ -26,4 +26,4 @@ Navigating view; Basic model manipulation; Modifier intro (boolean); Export tech
 
 ### To do:
 
-WS 1, 5
+WS 5 (Sadan)
