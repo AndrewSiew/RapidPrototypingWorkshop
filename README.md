@@ -18,8 +18,10 @@ X , Y and Z axis; Cartesian vs Delta vs CoreXYZ vs Polar vs Scara; Stepper motor
 Pronterface; EEPROM; Gcode; Marlin 1.1.6; Prusa own firmware; Configuration.h and config_adv.h; Flashing and uploading firmware
  6. Advance Slicing (MeshMixer):  
 Import and export files, navigating; Repairing holes in models; Smoothing; Basic Retopologizing; Cutting models; Tree support
- 7. Basic Mesh Modeling (Blender):  
+ 7.1. Basic Mesh Modeling (Blender):  
 Navigating view; Basic model manipulation; Modifier intro (boolean); Export technique
+ 7.2. Sustainability:
+Statistics on wastes; Ways to reduce, reuse, recycle when 3D printing; Ways to be sustainble in life
  8. Project Time
  9. Project Time
  10. Project Time/Presentation
