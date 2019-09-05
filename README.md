@@ -25,5 +25,3 @@ Navigating view; Basic model manipulation; Modifier intro (boolean); Export tech
  10. Project Time/Presentation
 
 ### To do:
-
-WS 5 (Sadan)
