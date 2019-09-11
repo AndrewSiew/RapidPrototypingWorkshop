@@ -20,10 +20,21 @@ Pronterface; EEPROM; Gcode; Marlin 1.1.6; Prusa own firmware; Configuration.h an
 Import and export files, navigating; Repairing holes in models; Smoothing; Basic Retopologizing; Cutting models; Tree support
  7. (1)Basic Mesh Modeling (Blender):  
 Navigating view; Basic model manipulation; Modifier intro (boolean); Export technique
+	
 	(2)Sustainability:
 Ways to reduce, reuse, recycle when 3D printing; Ways to be sustainble in life
  8. Project Time
  9. Project Time
  10. Project Time/Presentation
 
-### To do:
+### Schedule (tentative):
+|Week|Group A|Group B|
+|---|---|---|
+|1|1|1|
+|2|2|2|
+|3|3|3|
+|4|4|6|
+|5|6|4|
+|6|5|7|
+|7|7|5|
+|8,9,10|Project|Project|
