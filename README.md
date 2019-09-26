@@ -34,7 +34,7 @@ Ways to reduce, reuse, recycle when 3D printing; Ways to be sustainble in life
 |6|6*|5+8|
 |7|7*|7*|
 |8,9,10|Project|Project|
-* Means you with your group members without my leading. You're highly encouraged to come in so you can talk to your group about it.
+Start (*) means you with your group members without my leading. You're highly encouraged to meet up with your group so you can help each other.
 
 ### Submissions
 Put your answers in Google Doc link and submit them here:
