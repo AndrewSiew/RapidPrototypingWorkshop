@@ -39,6 +39,7 @@ Ways to reduce, reuse, recycle when 3D printing; Ways to be sustainble in life
 ### Submissions
 Put your answers in Google Doc link and submit them here:
 https://forms.gle/NNgwGuF4LDCj6pYJ8
+I expect pre-workshop submissions 24 hours before workshop, and workshop submissions 24 after your scheduled workshop time.
 
 ### What I want for each submission:
 |---|---|
