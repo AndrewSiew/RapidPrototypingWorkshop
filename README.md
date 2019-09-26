@@ -18,23 +18,42 @@ X , Y and Z axis; Cartesian vs Delta vs CoreXYZ vs Polar vs Scara; Stepper motor
 Pronterface; EEPROM; Gcode; Marlin 1.1.6; Prusa own firmware; Configuration.h and config_adv.h; Flashing and uploading firmware
  6. Advance Slicing (MeshMixer):  
 Import and export files, navigating; Repairing holes in models; Smoothing; Basic Retopologizing; Cutting models; Tree support
- 7. (1)Basic Mesh Modeling (Blender):  
+ 7. Basic Mesh Modeling (Blender):  
 Navigating view; Basic model manipulation; Modifier intro (boolean); Export technique
-	
-	(2)Sustainability:
+ 8. Sustainability:
 Ways to reduce, reuse, recycle when 3D printing; Ways to be sustainble in life
- 8. Project Time
- 9. Project Time
- 10. Project Time/Presentation
 
-### Schedule (tentative):
-|Week|Group A|Group B|
+### Schedule
+|Week|Group A (Wed 6-7:30pm)|Group B (Tues 5-6:30pm)|
 |---|---|---|
-|1|1|1|
-|2|2|2|
-|3|3|3|
-|4|4|6|
-|5|6|4|
-|6|5|7|
-|7|7|5|
+|1|1|2*|
+|2|2*|1|
+|3|4|3*|
+|4|3*|4|
+|5|5+8|6*|
+|6|6*|5+8|
+|7|7*|7*|
 |8,9,10|Project|Project|
+* Means you with your group members without my leading. You're highly encouraged to come in so you can talk to your group about it.
+
+### Submissions
+Put your answers in Google Doc link and submit them here:
+https://forms.gle/NNgwGuF4LDCj6pYJ8
+
+### What I want for each submission:
+|---|---|
+|Pre-workshop 1|Screencap of Cura and Github Desktop desktop shortcuts, your Github username|
+|Pre-workshop 2|Screencap of SolidWorks desktop shortcut|
+|Pre-workshop 3|Screencap of that block-with-hole part|
+|Pre-workshop 4|Screencap of sample.stl somewhere on your laptop|
+|Pre-workshop 5|Gcode movement of a square, screencap of PronterFace desktop shortcut|
+|Pre-workshop 6|Screencap of Meshmixer desktop shortcut, screencap of rabbit model on your desktop|
+|Pre-workshop 7|Screencap of Blender desktop shortcut|
+|Pre-workshop 8|Screencap of your questionnaire result|
+|Workshop 2|Screencap of parts you've made while following along the workshop|
+|Workshop 3|Gif of the motion study you exported (find an avi-to-gif converter yourself)|
+|Workshop 6|Screencap of fixed rabbit model from all 6 views (6 pictures)|
+|Workshop 7|Screencap of your pencil holder|
+
+### TODO
+-WS1 change filament, flush abs
