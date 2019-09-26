@@ -42,6 +42,7 @@ https://forms.gle/NNgwGuF4LDCj6pYJ8
 I expect pre-workshop submissions 24 hours before workshop, and workshop submissions 24 after your scheduled workshop time.
 
 ### What I want for each submission:
+|Submission|What I want|
 |---|---|
 |Pre-workshop 1|Screencap of Cura and Github Desktop desktop shortcuts, your Github username|
 |Pre-workshop 2|Screencap of SolidWorks desktop shortcut|
