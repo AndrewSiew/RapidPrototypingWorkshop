@@ -35,14 +35,15 @@ Ways to reduce, reuse, recycle when 3D printing; Ways to be sustainble in life
 |7 (Nov 4-10)|7*|7*|
 |8,9,10|Project|Project|
 
-Start (*) means you with your group members without my leading. You're highly encouraged to meet up with your group so you can help each other.
+Star (*) means you with your group members without my leading. You're highly encouraged to meet up with your group so you can help each other.
 
 ### Submissions
 Put your answers in Google Doc link and submit them here:
 https://forms.gle/NNgwGuF4LDCj6pYJ8
+
 I expect pre-workshop submissions 24 hours before workshop, and workshop submissions 24 after your scheduled workshop time.
 
-### What I want for each submission:
+### What I want for each submission
 |Submission|What I want|
 |---|---|
 |Pre-workshop 1|Screencap of Cura and Github Desktop desktop shortcuts, your Github username|
