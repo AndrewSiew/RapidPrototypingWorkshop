@@ -26,13 +26,13 @@ Ways to reduce, reuse, recycle when 3D printing; Ways to be sustainble in life
 ### Schedule
 |Week|Group A (Wed 6-7:30pm)|Group B (Tues 5-6:30pm)|
 |---|---|---|
-|1|1|2*|
-|2|2*|1|
-|3|4|3*|
-|4|3*|4|
-|5|5+8|6*|
-|6|6*|5+8|
-|7|7*|7*|
+|1 (Sep 23-29)|1|2*|
+|2 (Sep 30-Oct 6)|2*|1|
+|3 (Oct 7-13)|4|3*|
+|4 (Oct 14-20)|3*|4|
+|5 (Oct 21-27)|5+8|6*|
+|6 (Oct 28-Nov 3)|6*|5+8|
+|7 (Nov 4-10)|7*|7*|
 |8,9,10|Project|Project|
 Start (*) means you with your group members without my leading. You're highly encouraged to meet up with your group so you can help each other.
 
