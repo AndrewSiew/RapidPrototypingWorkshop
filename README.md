@@ -60,4 +60,7 @@ I expect pre-workshop submissions 24 hours before workshop, and workshop submiss
 |Workshop 7|Screencap of your pencil holder|
 
 ### TODO
--WS1 change filament, flush abs
+-ws1 change filament, flush abs
+-rename ws from int to char
+-ws2 recommend non sldr options
+-ws1 cura download guide, fix to v3.6
