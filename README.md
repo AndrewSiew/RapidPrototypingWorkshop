@@ -24,7 +24,7 @@ Navigating view; Basic model manipulation; Modifier intro (boolean); Export tech
 Ways to reduce, reuse, recycle when 3D printing; Ways to be sustainble in life
 
 ### Schedule
-|Week|Group A (Wed 6-7:30pm)|Group B (Tues 5-6:30pm)|
+|Week|Group A (Wed 6-7:00pm)|Group B (Tues 5:30-6:30pm)|
 |---|---|---|
 |1 (Sep 23-29)|1|2*|
 |2 (Sep 30-Oct 6)|2*|1|
