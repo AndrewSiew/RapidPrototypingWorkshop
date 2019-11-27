@@ -64,3 +64,10 @@ I expect pre-workshop submissions 24 hours before workshop, and workshop submiss
 -rename ws from int to char
 -ws2 recommend non sldr options
 -ws1 cura download guide, fix to v3.6
+-simplify readme
+
+### Changes to next year's workshops
+-no breaking into 2 groups lol
+-when2meet to schedule ppl
+-no submissions, just quiz at the end
+-assign more things to pre workshop, so can reduce ws time 1hr30min -> 45min 
