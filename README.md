@@ -63,6 +63,7 @@ I expect pre-workshop submissions 24 hours before workshop, and workshop submiss
 -ws1 change filament, flush abs
 -rename ws from int to char
 -ws2 recommend non sldr options
+-ws2 explain parametric model example
 -ws1 cura download guide, fix to v3.6
 -simplify readme
 
