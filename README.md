@@ -69,6 +69,8 @@ I expect pre-workshop submissions 24 hours before workshop, and workshop submiss
 - ws1 cura download guide, fix to v3.6
 - simplify readme
 
+placeholder change
+
 before ws starts
 - andrew: review meghan feedback on 3d printing service
 - friend: make cpp slides
