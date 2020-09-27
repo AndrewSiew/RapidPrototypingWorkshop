@@ -20,22 +20,24 @@ Pronterface; EEPROM; Gcode; Marlin 1.1.6; Prusa own firmware; Configuration.h an
 Import and export files, navigating; Repairing holes in models; Smoothing; Basic Retopologizing; Cutting models; Tree support
  7. Basic Mesh Modeling (Blender):  
 Navigating view; Basic model manipulation; Modifier intro (boolean); Export technique
- 8. Sustainability:
+ 8. Basic software (C++):
+TBA
+ 9. Sustainability:
 Ways to reduce, reuse, recycle when 3D printing; Ways to be sustainble in life
 
 ### Schedule
-|Week|Group A (Wed 6-7:00pm)|Group B (Tues 5:30-6:30pm)|
-|---|---|---|
-|1 (Sep 23-29)|1|2*|
-|2 (Sep 30-Oct 6)|2*|1|
-|3 (Oct 7-13)|4|3*|
-|4 (Oct 14-20)|3*|4|
-|5 (Oct 21-27)|5+8|6*|
-|6 (Oct 28-Nov 3)|6*|5+8|
-|7 (Nov 4-10)|7*|7*|
-|8,9,10|Project|Project|
-
-Star (*) means you with your group members without my leading. You're highly encouraged to meet up with your group so you can help each other.
+|Workshop/week|Lead|
+|---|---|
+|1|Friend|
+|2|Andrew|
+|3|Monica|
+|4|Monica|
+|5|Friend|
+|6|Friend|
+|7|Andrew|
+|8|Friend|
+|9|Friend|
+|Project|All|
 
 ### Submissions
 Put your answers in Google Doc link and submit them here:
@@ -60,12 +62,19 @@ I expect pre-workshop submissions 24 hours before workshop, and workshop submiss
 |Workshop 7|Screencap of your pencil holder|
 
 ### TODO
--ws1 change filament, flush abs
--rename ws from int to char
--ws2 recommend non sldr options
--ws2 explain parametric model example
--ws1 cura download guide, fix to v3.6
--simplify readme
+- ws1 change filament, flush abs
+- rename ws from int to char
+- ws2 recommend non sldr options
+- ws2 explain parametric model example
+- ws1 cura download guide, fix to v3.6
+- simplify readme
+
+placeholder change
+
+before ws starts
+- andrew: review meghan feedback on 3d printing service
+- friend: make cpp slides
+- monica: find way to teach components online
 
 ### Changes to next year's workshops
 -no breaking into 2 groups lol
