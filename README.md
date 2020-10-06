@@ -17,7 +17,7 @@ X , Y and Z axis; Cartesian vs Delta vs CoreXYZ vs Polar vs Scara; Stepper motor
  5. Printer Control Software:  
 Pronterface; EEPROM; Gcode; Marlin 1.1.6; Prusa own firmware; Configuration.h and config_adv.h; Flashing and uploading firmware.
  6. Basic software (C++):
-TBA
+Classes; Pointers; Arrays; Parameter passing; Return values; Problem solving
  7. Advance Slicing (MeshMixer):  
 Import and export files, navigating; Repairing holes in models; Smoothing; Basic Retopologizing; Cutting models; Tree support.
  8. Basic Mesh Modeling (Blender):  
