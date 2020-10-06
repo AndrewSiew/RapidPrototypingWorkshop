@@ -44,7 +44,7 @@ Personal project based on workshop skills.
 ### How this will work
 - Use Slack to ask questions during the week. Ask questions if you feel like you're falling behind.
 - After a workshop ends, check slides of upcoming workshop and do the pre-workshops beforehand. We'll make edits throughout the term, but we'll make sure a workshop is done-done a week before so you have time to do pre-workshops.
-- We'll use Google Meet to meet weekly for workshops. It'll be about an hour or so.
+- We'll use Google Meet to meet weekly for workshops. Meeting time is 7-8pm Friday. It'll be about an hour or so.
 - After the workshop, we'll give you a simple quiz with a Google Form. 
 - You'll do a simple project over NY break and we'll place you into subteams based on your interests and team availabilities. We're still deciding on how you'll present your projects.
 
