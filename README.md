@@ -24,30 +24,25 @@ Classes; Pointers; Arrays; Parameter passing; Return values; Problem solving
 Import and export files, navigating; Repairing holes in models; Smoothing; Basic Retopologizing; Cutting models; Tree support.
  9. Basic Mesh Modeling (Blender):  
 Navigating view; Basic model manipulation; Modifier intro (boolean); Export technique.
- 10. Sustainability:
+ 10. [optional] Sustainability:
 Ways to reduce, reuse, recycle when 3D printing; Ways to be sustainble in life.
- 11. Project:
-Personal project based on workshop skills.
 
 ### Schedule
-|Workshop/week|Lead|Subteam skill|Week|
+|Workshop/week|Lead|Subteam skill|Week|Delivery|
 |---|---|---|---|
-|1|Andrew|All/Printing service|Sept 27-Oct 3|
-|2|Andrew|Consulting|Oct 4-10|
-|3|Andrew|Consulting|Oct 11-17|
-|4|TBD|Consulting|Oct 18-24|
-|4|Andrew|Printing service|Oct 25-31|
-|5|Andrew|Firmware|Nov 1-7|
-|6|TBD|Firmware|Nov 8-14|
-|7|Andrew|Consulting/Printing service|Nov 15-21|
-|8|Andrew|Consulting/Printing service|Nov 22-28|
-|9|Andrew|All|Nov 29-Dec 5|
-|Project|All|All|NY break|
+|1|Ruth & Owen|All/Printing service|Oct 3-Oct 9|In-Person|
+|2|Ruth|Consulting|Oct 10-16|Online|
+|3|Ruth & Owen|Consulting|Oct 17-23|In-Person|
+|4|Owen|Printing service|Oct 24-30|Online|
+|5|Ruth & Owen|Firmware|Oct 31-Nov 6|In-Person|
+|6|Ruth|Firmware|Nov 7-13|Online|
+|7|Ruth & Owen|Consulting/Printing service|Nov 14-20|In-Person|
+|8|Owen|Consulting/Printing service|Nov 21-27|Online|
+|9|Ruth & Owen|All|Nov 28-Dec 4|In-Person|
 
 ### How this will work
 - Use Slack to ask questions during the week. Ask questions if you feel like you're falling behind.
 - After a workshop ends, check slides of upcoming workshop and do the pre-workshops beforehand. We'll make edits throughout the term, but we'll make sure a workshop is done-done a week before so you have time to do pre-workshops.
-- You'll do a simple project over NY break and we'll place you into subteams based on your interests and team availabilities. We're still deciding on how you'll present your projects.
 
 ### Changes to next year's workshops
 - assign more things to pre workshop, so can reduce ws time 1hr30min -> 45min 
